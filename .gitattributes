@@ -1,0 +1,6 @@
+# Normalize line endings in the repository; keep shell/Node scripts LF so they
+# stay executable and diff-stable across platforms.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.ico binary
